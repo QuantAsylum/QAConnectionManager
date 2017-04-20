@@ -1,0 +1,7 @@
+*.zip
+*.dll
+*.suo
+
+
+bin/
+obj/
